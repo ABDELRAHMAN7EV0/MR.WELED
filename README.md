@@ -4,11 +4,11 @@
 <title>Mr.walid</title>
 </head>
 <body>
-  _________________________________________________________________
+  _____________________________________________
   
 
 <h1>Mr.walid  </h1>
-  _________________________________________________________________
+  _____________________________________________
   <br>
   <h2>About Mr.walid geography</h2>
 <p>First of all, I would like to thank you for visiting my<br> profile, and I hope that we will have lasting<br> cooperation. Qualifications : I hold a Bachelorâs <br>degree in Arts and Education from Alexandria <br> University Diploma in Curricula and Teaching <br></> Methods in Educational Technology, Faculty of <br> Education, Alexandria University Diploma in <br>Educational Technology Teacher, Faculty of <br> Education, Alexandria Professional work:.</p>
